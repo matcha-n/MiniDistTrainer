@@ -83,6 +83,4 @@ The project is not a replacement for PyTorch DDP. Its goal is to help newcomers 
 + Email: matcha.nuoran@gmail.com
 + Date Created: 2025-08-29
 
-A guy who is an undergraduate in **Computer Science** and currently a graduate student in **MFE**.  Despite the MFE background, I remain deeply passionate about **computer algorithms and systems**. 
-
 Keep eager to transition into **llm backend development**. And hopefully, one day, may have the opportunity to also work on **AI&ML algorithm**.
